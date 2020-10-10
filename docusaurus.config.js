@@ -1,14 +1,14 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Serrina',
+  tagline: 'Infodump on the continent of Serrina',
+  url: 'https://serrina.vercel.app',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Kevin Deyne', // Usually your GitHub org/user name.
+  projectName: 'Serrina', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Serrina',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
