@@ -4,8 +4,6 @@ title: Karach Desert
 sidebar_label: Karach Desert
 ---
 
-# Karach Desert
-
 The continent of Serrina is enclosed by a large, endless desert called the (Karach) Sands or Karach Desert.
 
 While the desert is very inhospitable with few water sources, little shade from the scourching sun and treacherous sands, it does prove interesting to several parties. For instance, there is no structured form of government, law or [House Rule](/house-rule) active in the Sands.
