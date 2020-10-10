@@ -15,15 +15,32 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs/doc1',
+          to: 'docs/locations',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Locations',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {
+          to: 'docs/culture',
+          activeBasePath: 'docs',
+          label: 'Culture',
+          position: 'left',
+        },
+        {
+          to: 'docs/characters',
+          activeBasePath: 'docs',
+          label: 'Characters',
+          position: 'left',
+        },
+        {
+          to: 'docs/quests',
+          activeBasePath: 'docs',
+          label: 'Quests',
+          position: 'left',
+        },
         {
           href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          label: 'Viewing history',
           position: 'right',
         },
       ],
