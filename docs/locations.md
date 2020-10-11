@@ -1,4 +1,8 @@
-#Locations
+---
+id: locations
+title: Locations
+sidebar_label: Map
+---
 
 MAP GOES HERE
 
